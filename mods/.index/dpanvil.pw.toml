@@ -1,0 +1,14 @@
+name = "DataPack Anvil"
+filename = "dpanvil-1.19.2-4.4.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/7zu3jG0v/versions/dqWAHRoG/dpanvil-1.19.2-4.4.0.jar"
+hash-format = "sha512"
+hash = "0eb819111627864ffd8d4c25ef1c2a0de8798e2b76a1a12a5202458f939a87b2e7f12c58a8921e70ca337d66bcecc745fab5290ff23432200c81ff8897ce8559"
+
+[update]
+[update.modrinth]
+mod-id = "7zu3jG0v"
+version = "dqWAHRoG"

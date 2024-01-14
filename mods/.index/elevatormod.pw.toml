@@ -1,0 +1,14 @@
+name = "ElevatorMod"
+filename = "elevatorid-1.19.2-1.8.10.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/hi2dSXTu/versions/4BqiwruC/elevatorid-1.19.2-1.8.10.jar"
+hash-format = "sha512"
+hash = "10db1504067895e824c47a83be97b0725713cbfa058aacf1298554fbdec7a9928fee954e0684b9ad04df92979edc93f38757654a4ae025bbcd0cfbbf5a251bb8"
+
+[update]
+[update.modrinth]
+mod-id = "hi2dSXTu"
+version = "4BqiwruC"

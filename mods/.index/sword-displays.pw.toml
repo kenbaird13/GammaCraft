@@ -1,0 +1,14 @@
+name = "Sword Displays"
+filename = "sworddisplay-1.19.2-1.2.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "213d1bcb52e415ef8c1f37c6a70b8cdc90cc1119"
+
+[update]
+[update.curseforge]
+file-id = 4357827
+project-id = 392762

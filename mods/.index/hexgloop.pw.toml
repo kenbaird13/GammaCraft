@@ -1,0 +1,14 @@
+name = "Hex Gloop"
+filename = "hexgloop-1.19.2-0.2.0-forge.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/ryfyOhoP/versions/J6X6JaQW/hexgloop-1.19.2-0.2.0-forge.jar"
+hash-format = "sha512"
+hash = "643158ef45294d7bf6a7fd667106afe1db8def84cea202f3391f9e69bcd3a055e28433a4d0172128619fd58bd72fb13e08a1188d0c4c8d11a520076afcd35e7e"
+
+[update]
+[update.modrinth]
+mod-id = "ryfyOhoP"
+version = "J6X6JaQW"

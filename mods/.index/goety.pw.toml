@@ -1,0 +1,14 @@
+name = "Goety"
+filename = "Goety-2.24.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/4ZVIxU8x/versions/uaMs1BYq/Goety-2.24.0.jar"
+hash-format = "sha512"
+hash = "fdd449c9f16acdffe51696fc317ba0ca8a21a7b52a4267ca03ae6cdbf8f6ce230cf28940d2ec2ef79d75b8fa2cb0af9dfdee7d426372a7d5d8591e46b6bb4c8f"
+
+[update]
+[update.modrinth]
+mod-id = "4ZVIxU8x"
+version = "uaMs1BYq"

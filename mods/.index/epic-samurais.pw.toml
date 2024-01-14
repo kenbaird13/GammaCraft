@@ -1,0 +1,14 @@
+name = "Epic Samurai's"
+filename = "epicsamurai-0.0.17-1.19.2-forge.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/lMWJDrbO/versions/SPj9Xe27/epicsamurai-0.0.17-1.19.2-forge.jar"
+hash-format = "sha512"
+hash = "c125b417846b2b44fe80ab0b92945d879ab8d926a8d4868e851001103293030f5062bb7ba86ccbbe1c3b74bc2876260bae1e473ab11b16bbfa0ffc8086d1ada0"
+
+[update]
+[update.modrinth]
+mod-id = "lMWJDrbO"
+version = "SPj9Xe27"

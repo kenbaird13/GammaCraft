@@ -1,0 +1,14 @@
+name = "Lootr"
+filename = "lootr-1.19-0.4.24.64.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/EltpO5cN/versions/Wzhg7dWk/lootr-1.19-0.4.24.64.jar"
+hash-format = "sha512"
+hash = "e44dcd46c4b78ff3213150f78c3656e76770a5b0a7674bac26685b6c8e11e23ff33691ca224365e063a034f7d2f212b9e7ab2ce0ff4ba4ef638cdbd5c9018dc4"
+
+[update]
+[update.modrinth]
+mod-id = "EltpO5cN"
+version = "Wzhg7dWk"

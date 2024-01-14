@@ -1,0 +1,14 @@
+name = "Realm RPG: Dragon Wyrms"
+filename = "realmrpg_dragon_wyrms_1.0.1_forge_1.19.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "fddd6875817f63767fbac8e02911d9226ae984e9"
+
+[update]
+[update.curseforge]
+file-id = 4958552
+project-id = 908314

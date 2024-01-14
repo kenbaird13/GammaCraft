@@ -1,0 +1,14 @@
+name = "Extra Classes"
+filename = "Extra classes.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "4397018b056d80c4e1ddffef55900a4858c69e4b"
+
+[update]
+[update.curseforge]
+file-id = 4240407
+project-id = 545054

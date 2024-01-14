@@ -1,0 +1,14 @@
+name = "Critters and Companions"
+filename = "crittersandcompanions-1.19.2-2.1.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Yd4wb5wZ/versions/yoI3fMGq/crittersandcompanions-1.19.2-2.1.1.jar"
+hash-format = "sha512"
+hash = "15ebf92d1be8b2ae240eb865a92273fbb31195e7155a8b6abd7c71fbabe7268cb8e4f4d170334fda7d48260e7b9a57643f6363a065779d121dace16ea2408a31"
+
+[update]
+[update.modrinth]
+mod-id = "Yd4wb5wZ"
+version = "yoI3fMGq"

@@ -1,0 +1,14 @@
+name = "Hexal"
+filename = "hexal-forge-1.19.2-0.2.18.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/aBVJ6Q36/versions/4uxUwDtU/hexal-forge-1.19.2-0.2.18.jar"
+hash-format = "sha512"
+hash = "85aaba387e1f3c68390ef94de32df80982a0154ed4d6c5f7e85731763b7e2ee6b610029b94cbe1eaf5a72259e0b473ce8f4df7b39dc72ff19bf2416476d3c9fd"
+
+[update]
+[update.modrinth]
+mod-id = "aBVJ6Q36"
+version = "4uxUwDtU"
