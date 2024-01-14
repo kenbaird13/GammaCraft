@@ -1,13 +1,13 @@
 name = "Joba's Weapons"
-filename = "Joba's_Weapons_v_0.4.jar"
+filename = "Joba's_Weapons_v_0.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "8cad690e825dc0c70503f82bdee51fa1c0a20fee"
+hash = "d23944b53a0ce153ab80c2f7e9434f8fd1b776eb"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4974837
+file-id = 4906105
 project-id = 924173

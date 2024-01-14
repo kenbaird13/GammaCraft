@@ -2663,7 +2663,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "2857b1737b8debe4430c17f7f4fe75901710d9ddf5dc946777c6e8f219d595ed"
+hash = "7d4ed176565a8ba1d45289734e5aef2343c726c307cf06022ac1b21ebe5a3e2d"
 metafile = true
 
 [[files]]
@@ -2673,7 +2673,7 @@ metafile = true
 
 [[files]]
 file = "mods/jobas-weapons.pw.toml"
-hash = "41044a1f5a29d3b508318eecbe352dc371830d4d3c3ad84d53f68f8f5324a1ae"
+hash = "1429ff0d340889888bb8fb1b2a838c8d62d8e2e5b932ffdd27b974243492b5a7"
 metafile = true
 
 [[files]]
