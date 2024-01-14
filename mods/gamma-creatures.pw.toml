@@ -1,0 +1,13 @@
+name = "Gamma Creatures"
+filename = "Gamma_creatures_mod_1.0.0_1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d2f4dbe61680db7840e0e58bf6980160e413e4e4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5020385
+project-id = 952137

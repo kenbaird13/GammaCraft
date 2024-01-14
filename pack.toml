@@ -1,0 +1,13 @@
+name = "GammaCraft"
+author = "codeNredstone"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e50db7287b555db1718d02b1f0f71622d564d78d662310145accb25ecf0258c6"
+
+[versions]
+forge = "43.3.0"
+minecraft = "1.19.2"
