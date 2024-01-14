@@ -1,4 +1,4 @@
-name = "GammaCraft"
+name = "Gammacraft"
 author = "codeNredstone"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2fd0afb680e2b5cbfc5018149604f077f4664ccb0fe62afd6683cec2010d8931"
+hash = "1e8933be03e77d4146d1491e128287fdc1093d3171ff75c75b872074f8dc65a9"
 
 [versions]
 forge = "43.3.0"
