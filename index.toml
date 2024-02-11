@@ -2167,6 +2167,11 @@ hash = "e715503899e389e0d27baf13447a9e10d195f08cdf52d24b719de376e92c36b1"
 metafile = true
 
 [[files]]
+file = "mods/custom-player-models.pw.toml"
+hash = "eb6f57b85ddfd954e6139940e71771fda947e2074af03a6ff50dca2f79367a2e"
+metafile = true
+
+[[files]]
 file = "mods/datapack-anvil.pw.toml"
 hash = "a92815a4016da636ce2348e950e88cc584e5a2545c046f705b0a9f204a24bda5"
 metafile = true
@@ -2719,6 +2724,16 @@ metafile = true
 [[files]]
 file = "mods/vinery.pw.toml"
 hash = "0fe7a69606f7e05c57cc274f72a042599e0379fe536f004e8c8470649413e453"
+metafile = true
+
+[[files]]
+file = "mods/vivecraft-compat.pw.toml"
+hash = "ff57a2737c3b93d5260f9ca29360fe25d3aaefbe7c0e6167e32295dd2a04a202"
+metafile = true
+
+[[files]]
+file = "mods/vivecraft.pw.toml"
+hash = "dff622f728dede15738f81dd0b71aa9e283c3968871aae7b58c59ff79fffef68"
 metafile = true
 
 [[files]]
