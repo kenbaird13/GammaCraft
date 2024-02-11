@@ -2292,6 +2292,11 @@ hash = "4638b07d166445da41d0f17e4300592be3592c4b62214081197794bd577443e4"
 metafile = true
 
 [[files]]
+file = "mods/hex.pw.toml"
+hash = "0341e4358c57965713906a02af6e32d15ef2e1862d7b0583554c601992199e1b"
+metafile = true
+
+[[files]]
 file = "mods/hexal.pw.toml"
 hash = "2f0e93ba37fb1a6a1d4e1b1ea3a73365c4d60f247f6f0aa53d3b13ff1da3e5ca"
 metafile = true
@@ -2302,18 +2307,13 @@ hash = "7121832b2459f6dd4ca2e4571ddd2b7e9fcebc73b2d74f5a8b9c975bc263395c"
 metafile = true
 
 [[files]]
-file = "mods/hexerei.pw.toml"
-hash = "b4b6f5273674c7cb8bc0fd188c5f702ee7fcf81812dcf233bbd4edf56a28e3c3"
-metafile = true
-
-[[files]]
 file = "mods/hexgloop.pw.toml"
 hash = "8bd5335506f318d5efceaf520060786287841e09faade80d8db01cb059c72166"
 metafile = true
 
 [[files]]
 file = "mods/hextended-staves.pw.toml"
-hash = "362b08b2baf5a96454c4a40adc9540710f8be20e4795c63beec3dd0cb49ee0a3"
+hash = "4a91eecfc855806760e451ca0bde7a7956e4789c1c98f128540eace40f3be65a"
 metafile = true
 
 [[files]]
@@ -2817,5 +2817,5 @@ hash = "ca615db076e1af4d04f1230aa775a826c386e366198c55d5a67e827a29cd29fd"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Chibi Spirits.zip"
-hash = "8100191b3407704b58128dce14027d438315c3368859e30a71a0f30563e68eec"
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
