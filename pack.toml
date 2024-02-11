@@ -1,12 +1,12 @@
-name = "Gammacraft"
+name = "GammaCraft"
 author = "codeNredstone"
-version = "1.0.0"
+version = "3.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1e8933be03e77d4146d1491e128287fdc1093d3171ff75c75b872074f8dc65a9"
+hash = "b6f83e09a877e41eaaa5b36f0b81c4c2e7bc33753d6125e87d1df3f9efd27b38"
 
 [versions]
 forge = "43.3.0"

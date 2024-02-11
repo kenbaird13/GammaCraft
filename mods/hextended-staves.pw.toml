@@ -1,0 +1,13 @@
+name = "Hextended Staves"
+filename = "lanishextendedstaves-forge-1.19.2-0.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2613d2a3458c4eec468d2d52bf038d7588d04e81"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5023236
+project-id = 958544

@@ -4,6 +4,12 @@
 	[origins."origins-classes:nitwit"]
 		enabled = true
 
+	[origins."ars_scalaes:arse"]
+		enabled = true
+		"ars_scalaes:source_addict" = true
+		"ars_scalaes:source_addict_2" = true
+		"ars_scalaes:mana_absorber" = true
+
 	[origins."origins:enderian"]
 		enabled = true
 		"origins:throw_ender_pearl" = true
@@ -37,54 +43,23 @@
 		"origins:claustrophobia" = true
 		"origins:more_kinetic_damage" = true
 
-	[origins."dragon_origins:green_dragon_origin"]
+	[origins."ars_scalaes:sourcerer"]
 		enabled = true
-		"dragon_origins:good_neighboer" = true
-		"dragon_origins:green" = true
-		"dragon_origins:elytra" = true
-		"dragon_origins:white_teeth" = true
-		"dragon_origins:vegie" = true
-		"dragon_origins:food" = true
-		"dragon_origins:size" = true
-		"dragon_origins:emerald" = true
-		"dragon_origins:droar" = true
+		"ars_scalaes:source_loved" = true
+		"ars_scalaes:boost_magic_weak_phys" = true
+		"ars_scalaes:magic_boost" = true
 
-	[origins."dragon_origins:cookie"]
+	[origins."ars_scalaes:affinity/abjuration"]
 		enabled = true
-		"dragon_origins:canibalism" = true
-		"dragon_origins:spillage" = true
 
-	[origins."dragon_origins:kraken"]
+	[origins."ars_scalaes:starbuncle"]
 		enabled = true
-		"dragon_origins:kraken/bigger_kraken" = true
-		"dragon_origins:kraken/sea_creature" = true
-		"dragon_origins:kraken/tentacles" = true
-		"dragon_origins:kraken/grapple" = true
-		"dragon_origins:kraken/grappledesc" = true
-		"dragon_origins:kraken/grappletp" = true
-		"origins:air_from_potions" = true
-		"origins:aqua_affinity" = true
-		"origins:more_exhaustion" = true
-		"origins:carnivore" = true
-		"origins:water_vision" = true
-		"origins:conduit_power_on_land" = true
-		"origins:like_water" = true
-		"origins:water_breathing" = true
 
-	[origins."dragon_origins:mini"]
+	[origins."ars_scalaes:affinity/water_affinity"]
 		enabled = true
-		"dragon_origins:speed" = true
-		"dragon_origins:size2" = true
-		"origins:fall_immunity" = true
-		"origins:climbing" = true
-		"dragon_origins:haste" = true
-		"origins:no_shield" = true
-		"dragon_origins:less_hp" = true
-		"dragon_origins:speedswim" = true
-		"dragon_origins:speed_boost" = true
-		"origins:carnivore" = true
-		"dragon_origins:slow" = true
-		"dragon_origins:jump_boost" = true
+
+	[origins."disabled:origin_layers/origin"]
+		enabled = true
 
 	[origins."origins-classes:explorer"]
 		enabled = true
@@ -102,13 +77,6 @@
 		"origins:fragile" = true
 		"origins:phantomize_overlay" = true
 
-	[origins."dragon_origins:test"]
-		enabled = true
-		"dragon_origins:test/invis_temp" = true
-		"dragon_origins:test/heal" = true
-		"dragon_origins:test/lightning" = true
-		"dragon_origins:test/dimension" = true
-
 	[origins."origins-classes:beastmaster"]
 		enabled = true
 		"origins-classes:tamed_animal_boost" = true
@@ -118,6 +86,9 @@
 		enabled = true
 		"origins-classes:trade_availability" = true
 		"origins-classes:rare_wandering_loot" = true
+
+	[origins."ars_scalaes:drygmy"]
+		enabled = true
 
 	[origins."origins-classes:rancher"]
 		enabled = true
@@ -144,6 +115,9 @@
 		"origins:lay_eggs" = true
 		"origins:vegetarian" = true
 
+	[origins."ars_scalaes:wixie"]
+		enabled = true
+
 	[origins."origins-classes:archer"]
 		enabled = true
 		"origins-classes:no_projectile_divergence" = true
@@ -154,79 +128,36 @@
 		"origins-classes:more_crop_drops" = true
 		"origins-classes:better_bone_meal" = true
 
-	[origins."dragon_origins:cyborg"]
-		enabled = true
-		"dragon_origins:metal_skin" = true
-		"dragon_origins:water" = true
-		"dragon_origins:xtrajump" = true
-		"dragon_origins:fire_immunity" = true
-		"dragon_origins:no_armor" = true
-		"dragon_origins:fall_dam" = true
-		"dragon_origins:night_v" = true
-
 	[origins."origins-classes:miner"]
 		enabled = true
 		"origins-classes:more_stone_break_speed" = true
 		"origins-classes:no_mining_exhaustion" = true
-
-	[origins."dragon_origins:panda"]
-		enabled = true
-		"dragon_origins:panda/food" = true
-		"dragon_origins:panda/food_dis" = true
-		"origins:vegetarian" = true
-
-	[origins."dragon_origins:red_dragon"]
-		enabled = true
-		"origins:fire_immunity" = true
-		"origins:nether_spawn" = true
-		"origins:burning_wrath" = true
-		"origins:water_vulnerability" = true
-		"origins:hotblooded" = true
-
-	[origins."dragon_origins:pirate"]
-		enabled = true
-		"dragon_origins:pirate/hook" = true
-		"dragon_origins:pirate/eye_patch" = true
-		"dragon_origins:pirate/swim_speed" = true
-		"dragon_origins:pirate/home" = true
-		"dragon_origins:pirate/shiny" = true
 
 	[origins."origins-classes:cook"]
 		enabled = true
 		"origins-classes:better_crafted_food" = true
 		"origins-classes:more_smoker_xp" = true
 
-	[origins."dragon_origins:druid"]
-		enabled = true
-		"dragon_origins:f_buf" = true
-		"dragon_origins:nether2" = true
-		"dragon_origins:hot_debuf" = true
-		"dragon_origins:vegie3" = true
-		"dragon_origins:roots" = true
-		"dragon_origins:roots2" = true
-		"dragon_origins:roots3" = true
-		"dragon_origins:heal2" = true
-		"dragon_origins:regen" = true
-		"dragon_origins:plant_v" = true
-		"dragon_origins:green2" = true
-		"dragon_origins:hunger" = true
-
-	[origins."dragon_origins:yang"]
-		enabled = true
-		"dragon_origins:yinyang/yang/yintransform" = true
-		"dragon_origins:yinyang/yang/cloud" = true
-		"dragon_origins:yinyang/yang/posess" = true
-		"dragon_origins:yinyang/yang/transparency1" = true
-		"dragon_origins:yinyang/yang/dayweak" = true
-		"dragon_origins:yinyang/yang/invis_temp" = true
-
 	[origins."origins:human"]
+		enabled = true
+
+	[origins."ars_scalaes:bookwyrm"]
 		enabled = true
 
 	[origins."origins-classes:lumberjack"]
 		enabled = true
 		"origins-classes:tree_felling" = true
 		"origins-classes:more_planks_from_logs" = true
+
+	[origins."ars_scalaes:affinity/conjuration"]
+		enabled = true
+
+	[origins."ars_scalaes:affinity/fire_affinity"]
+		enabled = true
+
+	[origins."ars_scalaes:class/arsificer"]
+		enabled = true
+		"ars_scalaes:book_inept" = true
 
 	[origins."origins:shulk"]
 		enabled = true
@@ -242,23 +173,6 @@
 		"origins-classes:potion_bonus" = true
 		"origins-classes:better_enchanting" = true
 
-	[origins."dragon_origins:magic_fly"]
-		enabled = true
-		"dragon_origins:vegie2" = true
-		"dragon_origins:fairy_wings" = true
-		"dragon_origins:easy_travel" = true
-		"dragon_origins:size3" = true
-		"dragon_origins:slow" = true
-		"origins:fall_immunity" = true
-		"dragon_origins:6hp" = true
-		"dragon_origins:no_swords" = true
-		"dragon_origins:iron_golem" = true
-		"dragon_origins:heal" = true
-		"dragon_origins:no_combat" = true
-		"dragon_origins:hot_debuf" = true
-		"dragon_origins:nether" = true
-		"dragon_origins:hunger" = true
-
 	[origins."origins:merling"]
 		enabled = true
 		"origins:water_breathing" = true
@@ -270,24 +184,6 @@
 		"origins:conduit_power_on_land" = true
 		"origins:air_from_potions" = true
 
-	[origins."dragon_origins:undead"]
-		enabled = true
-		"dragon_origins:zombie" = true
-		"dragon_origins:daylight" = true
-		"dragon_origins:hugs" = true
-		"dragon_origins:body" = true
-		"dragon_origins:body_" = true
-		"dragon_origins:gloom" = true
-		"dragon_origins:undead" = true
-		"dragon_origins:unnerving" = true
-		"dragon_origins:attacker" = true
-		"dragon_origins:target" = true
-		"dragon_origins:join_team" = true
-		"dragon_origins:create_team" = true
-		"dragon_origins:summon" = true
-		"dragon_origins:shovel" = true
-		"dragon_origins:stone_sword" = true
-
 	[origins."origins:arachnid"]
 		enabled = true
 		"origins:climbing" = true
@@ -296,36 +192,18 @@
 		"origins:fragile" = true
 		"origins:arthropod" = true
 
-	[origins."dragon_origins:mimic"]
+	[origins."ars_scalaes:affinity/earth_affinity"]
 		enabled = true
-		"dragon_origins:mimic/toggle" = true
-		"dragon_origins:mimic/toggle2" = true
-		"dragon_origins:mimic/display" = true
-		"origins:nine_lives" = true
+		"ars_scalaes:flyphase" = true
+		"ars_scalaes:toggle_phase" = true
 
-	[origins."dragon_origins:yin"]
+	[origins."ars_scalaes:affinity/air_affinity"]
 		enabled = true
-		"dragon_origins:yinyang/yin/yangtransform" = true
-		"dragon_origins:yinyang/yin/heal" = true
-		"dragon_origins:test/lightning" = true
-		"dragon_origins:yinyang/yin/transparency" = true
-		"dragon_origins:yinyang/yin/darkweak" = true
 
 	[origins."origins-classes:blacksmith"]
 		enabled = true
 		"origins-classes:quality_equipment" = true
 		"origins-classes:efficient_repairs" = true
-
-	[origins."dragon_origins:necromancer"]
-		enabled = true
-		"dragon_origins:gloom" = true
-		"dragon_origins:gloom2" = true
-		"dragon_origins:mysterous" = true
-		"dragon_origins:emume" = true
-		"dragon_origins:summon/sz_summon" = true
-		"dragon_origins:summon/a_summon" = true
-		"dragon_origins:summon/d_summon" = true
-		"dragon_origins:cloak" = true
 
 	[origins."origins-classes:rogue"]
 		enabled = true
@@ -333,63 +211,6 @@
 		"origins-classes:stealth" = true
 		"origins-classes:stealth_core" = true
 
-	[origins."gaster:gaster"]
+	[origins."ars_scalaes:whirlis"]
 		enabled = true
-		"gaster:nobody" = true
-		"gaster:weak" = true
-		"gaster:fall" = true
-		"gaster:colision" = true
-		"gaster:hunger" = true
-		"gaster:regen" = true
-		"gaster:phase" = true
-		"gaster:immortal" = true
-		"gaster:potion" = true
-		"gaster:invisible" = true
-		"gaster:nope" = true
-		"gaster:sprint" = true
-		"gaster:teleport" = true
-		"gaster:bow" = true
-		"gaster:particle" = true
-		"gaster:fluid1" = true
-		"origins:aqua_affinity" = true
-		"origins:cat_vision" = true
-		"origins:water_vision" = true
-
-	[origins."wizard:wizard"]
-		enabled = true
-		"wizard:grimoirecreation" = true
-		"wizard:spectralbeam" = true
-		"wizard:shadowbeam" = true
-		"wizard:leech" = true
-		"wizard:hex" = true
-		"wizard:remedy" = true
-		"wizard:guarding" = true
-		"wizard:dart" = true
-		"wizard:warp" = true
-		"wizard:magic" = true
-		"wizard:magicxp" = true
-		"wizard:magicimmune" = true
-		"wizard:fragilecasting" = true
-		"wizard:weak" = true
-		"wizard:ineptmagic" = true
-		"wizard:ineptall" = true
-
-	[origins."myce:reaper"]
-		enabled = true
-		"myce:ghostly_form" = true
-		"myce:dash2" = true
-		"myce:debuff" = true
-		"myce:buff" = true
-		"myce:no_eat" = true
-		"myce:heal" = true
-		"myce:nofall" = true
-		"myce:grab" = true
-		"myce:soul_steal" = true
-		"myce:phase_debuff" = true
-		"myce:sun" = true
-		"myce:fire" = true
-		"myce:ghost" = true
-		"myce:rip2" = true
-		"myce:rip3" = true
-		"myce:credits" = true
 

@@ -10,6 +10,13 @@ to make editing this file much easier.
 {
 	// Trades for a given villager profession. Trade levels are in the range of 1-5
 	"trades_by_profession": {
+		"ars_nouveau:shady_wizard": {
+			"1": [],
+			"2": [],
+			"3": [],
+			"4": [],
+			"5": []
+		},
 		"byg:forager": {
 			"1": [
 				{
@@ -150,6 +157,13 @@ to make editing this file much easier.
 					"type": "corgilib:emerald_for_items"
 				}
 			]
+		},
+		"iceandfire:scribe": {
+			"1": [],
+			"2": [],
+			"3": [],
+			"4": [],
+			"5": []
 		},
 		"minecraft:armorer": {
 			"1": [],
@@ -454,6 +468,62 @@ to make editing this file much easier.
 			"4": [],
 			"5": []
 		},
+		"morevillagers:enderian": {
+			"1": [],
+			"2": [],
+			"3": [],
+			"4": [],
+			"5": []
+		},
+		"morevillagers:engineer": {
+			"1": [],
+			"2": [],
+			"3": [],
+			"4": [],
+			"5": []
+		},
+		"morevillagers:florist": {
+			"1": [],
+			"2": [],
+			"3": [],
+			"4": [],
+			"5": []
+		},
+		"morevillagers:hunter": {
+			"1": [],
+			"2": [],
+			"3": [],
+			"4": [],
+			"5": []
+		},
+		"morevillagers:miner": {
+			"1": [],
+			"2": [],
+			"3": [],
+			"4": [],
+			"5": []
+		},
+		"morevillagers:netherian": {
+			"1": [],
+			"2": [],
+			"3": [],
+			"4": [],
+			"5": []
+		},
+		"morevillagers:oceanographer": {
+			"1": [],
+			"2": [],
+			"3": [],
+			"4": [],
+			"5": []
+		},
+		"morevillagers:woodworker": {
+			"1": [],
+			"2": [],
+			"3": [],
+			"4": [],
+			"5": []
+		},
 		"villagersplus:alchemist": {
 			"1": [],
 			"2": [],
@@ -476,6 +546,13 @@ to make editing this file much easier.
 			"5": []
 		},
 		"villagersplus:oceanographer": {
+			"1": [],
+			"2": [],
+			"3": [],
+			"4": [],
+			"5": []
+		},
+		"vinery:winemaker": {
 			"1": [],
 			"2": [],
 			"3": [],
