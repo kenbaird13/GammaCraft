@@ -1843,15 +1843,3 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "ca615db076e1af4d04f1230aa775a826c386e366198c55d5a67e827a29cd29fd"
 metafile = true
-
-[[files]]
-file = "server/config/byg/backups/last_working_configs_backup.zip"
-hash = "82a3655570295177cf46e51bc7e812632fb405918c72b05c935129e2cd7e509f"
-
-[[files]]
-file = "server/packwiz-installer-bootstrap.jar"
-hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
-
-[[files]]
-file = "server/packwiz-installer.jar"
-hash = "3cc3ebd57f1ec54a8ceaccc76e193201f8c957c563c9461253d112c5b087d744"
