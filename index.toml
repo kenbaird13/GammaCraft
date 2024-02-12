@@ -1286,6 +1286,11 @@ hash = "e61b5b8eb85438ecbc5d358736d4814f1795690e062d7fc3fef1dc505e28f024"
 metafile = true
 
 [[files]]
+file = "mods/garnished.pw.toml"
+hash = "7a03619c47724eb1a15dfb3abb80d481ac0b11e63bb5557931b5a24953ed0073"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "ab7bb11199e592a43542ec0ca68c0536b91b5045e070a77525ae1593ca722b90"
 metafile = true
