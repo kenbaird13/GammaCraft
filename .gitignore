@@ -4,5 +4,4 @@
 # Exclude exported Modrinth modpacks
 *.mrpack
 
-packwiz-installer-bootstrap.jar
-
+server/*
