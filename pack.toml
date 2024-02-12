@@ -1,4 +1,4 @@
-name = "GammaCraft"
+name = "RealmRush"
 author = "codeNredstone"
 version = "3.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a6d3cdb2a387821714860bd0a1be121974026b0c34ab3c0e6a2621149b60bceb"
+hash = "6bbc3dbd68647e9de8f646ce01ccbf3ef8e72fe2de4059c57ebaeaca09317b60"
 
 [versions]
 forge = "43.3.0"
