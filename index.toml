@@ -74,7 +74,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "764b999ba69b84b3bbae214d79e0cf208705d3d4213c0b809e49ef9e6a7fb1dd"
+hash = "75ed8d650127ffb977ae124a4c40de6f1068bab908bc7be7bd710e8184ec347b"
 metafile = true
 
 [[files]]
@@ -135,6 +135,11 @@ metafile = true
 [[files]]
 file = "mods/canary.pw.toml"
 hash = "5ac82b3b4a39fbab4255daff457d85787c09f32b01bbfeac5cf4aa2234b2164a"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "fccc6b3c690cda345c9b396b54993fc9f36b25cfe99f2219e96b6f77c7bc0e0c"
 metafile = true
 
 [[files]]
@@ -773,17 +778,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "f05809622dd6db22be39a9d137e7e5821cf8bfe5c0a7854078bfde63116df506"
+hash = "3d67e86026786ec1dbefef2ea2841f7fe5e8aea108c6f5fd133a3bdaa92411c7"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "e8bd364a4619eb86cb800996003f679cec74575cdfa4aea74c769f53d090c8ec"
+hash = "36ada17a094db29c2152b283d75319ce5efb65ebd5a594886ee0354edd261b8f"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "ebba4e68c62efd92473ab93930e0c9b5327983f702628d7a7e04df223ebccaac"
+hash = "8cb6648cf49de2956ca296a0d53ac503e876e4acbe3031c7da0f91ff726b101d"
 metafile = true
 
 [[files]]
@@ -803,7 +808,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "cc6cd0beee356fd5e017743fae54cfe89d20f9a86073b704b8c103d1a3ba89ac"
+hash = "258136d1058bc0be9f2fed973d8905e332e94ab3a85f0211bd5f9a6a1ad9b530"
 metafile = true
 
 [[files]]
@@ -955,31 +960,3 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "ca615db076e1af4d04f1230aa775a826c386e366198c55d5a67e827a29cd29fd"
 metafile = true
-
-[[files]]
-file = "resourcepacks/info slot/assets/trinkets/lang/en_au.json"
-hash = "821b5f3e945ad5dc2b0df78e0ca0b49944735d129bd6cfe8c45c7dcfae01f1ff"
-
-[[files]]
-file = "resourcepacks/info slot/assets/trinkets/lang/en_ca.json"
-hash = "821b5f3e945ad5dc2b0df78e0ca0b49944735d129bd6cfe8c45c7dcfae01f1ff"
-
-[[files]]
-file = "resourcepacks/info slot/assets/trinkets/lang/en_gb.json"
-hash = "821b5f3e945ad5dc2b0df78e0ca0b49944735d129bd6cfe8c45c7dcfae01f1ff"
-
-[[files]]
-file = "resourcepacks/info slot/assets/trinkets/lang/en_nz.json"
-hash = "821b5f3e945ad5dc2b0df78e0ca0b49944735d129bd6cfe8c45c7dcfae01f1ff"
-
-[[files]]
-file = "resourcepacks/info slot/assets/trinkets/lang/en_us.json"
-hash = "821b5f3e945ad5dc2b0df78e0ca0b49944735d129bd6cfe8c45c7dcfae01f1ff"
-
-[[files]]
-file = "resourcepacks/info slot/assets/trinkets/textures/gui/slots/information.png"
-hash = "de9cf3470feefbe80c904591f81e797349583d6a3030cc937f7e63231a874f6c"
-
-[[files]]
-file = "resourcepacks/info slot/pack.mcmeta"
-hash = "b7fb8bdc9be0349564d9b2fa221f9f5a2e421178d4f24c896d4e8138885899a8"
