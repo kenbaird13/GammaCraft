@@ -962,7 +962,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "75ed8d650127ffb977ae124a4c40de6f1068bab908bc7be7bd710e8184ec347b"
+hash = "764b999ba69b84b3bbae214d79e0cf208705d3d4213c0b809e49ef9e6a7fb1dd"
 metafile = true
 
 [[files]]
@@ -1023,11 +1023,6 @@ metafile = true
 [[files]]
 file = "mods/canary.pw.toml"
 hash = "5ac82b3b4a39fbab4255daff457d85787c09f32b01bbfeac5cf4aa2234b2164a"
-metafile = true
-
-[[files]]
-file = "mods/carry-on.pw.toml"
-hash = "fccc6b3c690cda345c9b396b54993fc9f36b25cfe99f2219e96b6f77c7bc0e0c"
 metafile = true
 
 [[files]]
@@ -1350,6 +1345,11 @@ hash = "faff32ac8dd09c67b6c8d17014d031213109cb87df2aa66596375a1d59412fda"
 metafile = true
 
 [[files]]
+file = "mods/item-obliterator.pw.toml"
+hash = "040f588f88c1ef69e88d7ca53d57ac150b2596138c84556b30206c6cadfffc18"
+metafile = true
+
+[[files]]
 file = "mods/item-production-lib.pw.toml"
 hash = "519b5e0f959af77317b12503bc28434c4498feba048629fe839cd5e105742838"
 metafile = true
@@ -1520,6 +1520,11 @@ hash = "63800317329d340d3550b00dda4fecb2861cc6a643c2390d34f446c550ff9f06"
 metafile = true
 
 [[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "909e0c021f6d58d6f6a4d5cc37e6db88a37bb18287eb6120fc8b047fd234fb9f"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "ebe4f9026b88b5e526c15cfb5a00f78b3c7538970df343803fbcdf36ede37534"
 metafile = true
@@ -1641,7 +1646,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "d5ec61928894f1c18d0213e81ba98805a39aa85d384b9776ef7aca63663ddbc3"
+hash = "c7f745f1ce75152151a6c6042a612555fd6f99d43819063ce7450695395c11a3"
 metafile = true
 
 [[files]]
@@ -1661,17 +1666,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "3d67e86026786ec1dbefef2ea2841f7fe5e8aea108c6f5fd133a3bdaa92411c7"
+hash = "f05809622dd6db22be39a9d137e7e5821cf8bfe5c0a7854078bfde63116df506"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "36ada17a094db29c2152b283d75319ce5efb65ebd5a594886ee0354edd261b8f"
+hash = "e8bd364a4619eb86cb800996003f679cec74575cdfa4aea74c769f53d090c8ec"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "8cb6648cf49de2956ca296a0d53ac503e876e4acbe3031c7da0f91ff726b101d"
+hash = "62848053d8f64125cb08cde6fcb61f8790638cd76cdf1ef26f0ab385a1e19c89"
 metafile = true
 
 [[files]]
@@ -1691,7 +1696,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "258136d1058bc0be9f2fed973d8905e332e94ab3a85f0211bd5f9a6a1ad9b530"
+hash = "cc6cd0beee356fd5e017743fae54cfe89d20f9a86073b704b8c103d1a3ba89ac"
 metafile = true
 
 [[files]]
