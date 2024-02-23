@@ -941,6 +941,11 @@ hash = "2d07b315a6563501874085a71503a17b16d81fa4b9ed19795b6ced255650fa7c"
 metafile = true
 
 [[files]]
+file = "mods/ars-artifice.pw.toml"
+hash = "877cf1094bdb58a73aeaaa89f318bf23d91e8d571319bd86730935d66fd0eff5"
+metafile = true
+
+[[files]]
 file = "mods/ars-creo.pw.toml"
 hash = "f5c9f8149dfeb65e1488c5f9775dddb8d0afe6531101dc5519a7ac407b2391d1"
 metafile = true
@@ -1657,11 +1662,6 @@ metafile = true
 [[files]]
 file = "mods/rubidium.pw.toml"
 hash = "4def18046ec13bd01abc5c0c229760de88081590126ecd0a2b610116bf0abc88"
-metafile = true
-
-[[files]]
-file = "mods/sand_box.pw.toml"
-hash = "afe4680b1c2d5bd94fcb398b9ab24b9c25e247586e4c7fe237cf1f1c31c03993"
 metafile = true
 
 [[files]]
