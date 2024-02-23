@@ -911,11 +911,6 @@ hash = "ff57a2737c3b93d5260f9ca29360fe25d3aaefbe7c0e6167e32295dd2a04a202"
 metafile = true
 
 [[files]]
-file = "mods/vivecraft-forge-extensions.pw.toml"
-hash = "2dc1676cf008a07cd26ddc406ea70aebd5f1593c171b8c96af823cf38c620803"
-metafile = true
-
-[[files]]
 file = "mods/vivecraft.pw.toml"
 hash = "dff622f728dede15738f81dd0b71aa9e283c3968871aae7b58c59ff79fffef68"
 metafile = true
