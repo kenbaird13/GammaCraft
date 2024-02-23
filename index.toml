@@ -1336,8 +1336,9 @@ hash = "7121832b2459f6dd4ca2e4571ddd2b7e9fcebc73b2d74f5a8b9c975bc263395c"
 metafile = true
 
 [[files]]
-file = "mods/hexerei-0.3.3.1.jar"
-hash = "9178fbe53567b56c5e358fec03d856f5f9dd2f120be2c10f7c1c1ddf3a3a2b79"
+file = "mods/hexerei.pw.toml"
+hash = "b4b6f5273674c7cb8bc0fd188c5f702ee7fcf81812dcf233bbd4edf56a28e3c3"
+metafile = true
 
 [[files]]
 file = "mods/hexgloop.pw.toml"
