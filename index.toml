@@ -946,6 +946,11 @@ hash = "f5c9f8149dfeb65e1488c5f9775dddb8d0afe6531101dc5519a7ac407b2391d1"
 metafile = true
 
 [[files]]
+file = "mods/ars-elemental.pw.toml"
+hash = "1e958fefaf03373141b06f01cceda243976ed88463e1ade3a57ba7a404221df0"
+metafile = true
+
+[[files]]
 file = "mods/ars-instrumentum.pw.toml"
 hash = "3d497c1b62bd9831a9e835d7474f282c11e4936701705d35f4079a1643d93800"
 metafile = true
@@ -1091,6 +1096,11 @@ hash = "c98b92c96eb546872a0d203969ddba29a17f6ab0e57ff93081d81a138562e8b7"
 metafile = true
 
 [[files]]
+file = "mods/create-connected.pw.toml"
+hash = "d740848ba86d9972a4b9bd977e988c4a3b6a54c6eb985ede2057174922333431"
+metafile = true
+
+[[files]]
 file = "mods/create-crystal-clear.pw.toml"
 hash = "b8d11969b1c0a76392e33cdb64c75ea35828fb0fae95cf4f5d70db497c2eec23"
 metafile = true
@@ -1116,6 +1126,11 @@ hash = "51adae14e945c055ab0c8a6f96ad9bd5002ae96f7cbf49e9d7d8a25dc3f11c03"
 metafile = true
 
 [[files]]
+file = "mods/create-planetary-tweaks.pw.toml"
+hash = "e39217aca24cbb509bf6b6d5c7dfd8c90ec69a20d946fbc3cdbce774d99ac81d"
+metafile = true
+
+[[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "7fb13189c2bab008ab22afaafa12100a30c06c94bb8a1caacffb1939af78f097"
 metafile = true
@@ -1128,6 +1143,11 @@ metafile = true
 [[files]]
 file = "mods/create-stuff-additions.pw.toml"
 hash = "185ca4df9df3c6a98858643db992a97ccfcec018ba4682fe1ddb88ea4ad96132"
+metafile = true
+
+[[files]]
+file = "mods/create-weaponry.pw.toml"
+hash = "b01bccb2dbbf80f2ed18c6addc6aecae0c4f7ebb750777d5f1026ab499e10b0a"
 metafile = true
 
 [[files]]
@@ -1243,6 +1263,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "0c820f51223c9f36609b2ab9c2cfe84c9f8920baee03d27535470e41330b9a76"
+metafile = true
+
+[[files]]
+file = "mods/fishing-bobber-detector.pw.toml"
+hash = "eb8d20c04fe52b1cb8c638de641a031086b6ec7da0eac3edc77a0286b87e866b"
 metafile = true
 
 [[files]]
@@ -1632,6 +1657,11 @@ metafile = true
 [[files]]
 file = "mods/rubidium.pw.toml"
 hash = "4def18046ec13bd01abc5c0c229760de88081590126ecd0a2b610116bf0abc88"
+metafile = true
+
+[[files]]
+file = "mods/sand_box.pw.toml"
+hash = "afe4680b1c2d5bd94fcb398b9ab24b9c25e247586e4c7fe237cf1f1c31c03993"
 metafile = true
 
 [[files]]
